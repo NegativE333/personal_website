@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    width: 20%;
+    margin: 0 auto 0 auto;
+    font-family: 'Macondo', cursive;
+    font-size: 3em;
+    margin: 50px auto 0 auto;
+}
+p{
+    font-family: cursive;
+}
+.firstcontainer{
+    background-color: #B7E5DD;
+    position: relative;
+    padding-top: 25px;
+}
+.b-cloud{
+    position:absolute;
+    
+}
+.t-cloud{
+    position: relative;
+    left: 250px;
+    top: 10px;
+}
+.birds{
+    width: 150px;
+    position: absolute;
+    top: 305px;
+    left: 100px;
+}
+.birds2{
+    width: 150px;
+    position: absolute;
+    top: 270px;
+    left: 680px;
+}
+.birds3{
+    width: 150px;
+    position: absolute;
+    top: 325px;
+    right: 80px;
+}
+.profile img{
+    width: 80px;
+    padding-top: 20px;
+}
+.proimg{
+    width: 80px;
+    padding-top: 20px;
+}
+.subtitle{
+    font-size: 25px;
+}
+hr{
+    border: dotted 6px;
+    width: 4%;
+    height: 0%;
+    border-bottom: none;
+    border-color: black;
+
+}
+h2{
+    color: #112B3C;
+    font-size: 2.5rem;
+}
+.bottom-container{
+    background-color: #B7E5DD;
+    padding: 50px 0 20px;
+    margin-top: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-weight: bolder;
+}
+a:hover{
+    color: #043636;
+}
